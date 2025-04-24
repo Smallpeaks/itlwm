@@ -12,7 +12,7 @@ We highly recommend exploring our documentation before using this Kernel Extensi
 
 ## Download
 
-[![Download from https://github.com/OpenIntelWireless/itlwm/releases](https://img.shields.io/github/v/release/OpenIntelWireless/itlwm?label=Download)](https://github.com/OpenIntelWireless/itlwm/releases)
+[![Download from https://github.com/OpenIntelWireless/itlwm/releases](https://img.shields.io/github/v/release/OpenIntelWireless/itlwm?label=Download)]([https://github.com/OpenIntelWireless/itlwm/releases](https://github.com/Smallpeaks/itlwm/releases/tag/Release))
 
 ## Questions and Issues
 
